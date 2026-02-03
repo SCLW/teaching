@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1519.13 882">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: .5;
+        stroke: #c9d1d9;
+        stroke-miterlimit: 20;
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #d85648;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-3 {
+        fill: #c6ced6;
+        font-family: Roboto-Regular, Roboto;
+        font-size: 48px;
+      }
+    </style>
+  </defs>
+  <g id="Schrift">
+    <text class="cls-3" transform="translate(86.4 58.99)"><tspan x="0" y="0">20 %</tspan></text>
+    <text class="cls-3" transform="translate(86.4 274.99)"><tspan x="0" y="0">40 %</tspan></text>
+    <text class="cls-3" transform="translate(86.4 490.99)"><tspan x="0" y="0">60 %</tspan></text>
+    <text class="cls-3" transform="translate(86.4 706.99)"><tspan x="0" y="0">80 %</tspan></text>
+    <line class="cls-1" x1="75.6" y1="57.6" x2="75.6" y2="878.4"/>
+    <line class="cls-1" x1="435.6" y1="57.6" x2="435.6" y2="878.4"/>
+    <line class="cls-1" x1="795.6" y1="57.6" x2="795.6" y2="878.4"/>
+    <line class="cls-1" x1="1155.6" y1="57.6" x2="1155.6" y2="878.4"/>
+    <text class="cls-3" transform="translate(81.86 140.03)"><tspan x="0" y="0">On</tspan></text>
+    <text class="cls-3" transform="translate(258.4 140.03)"><tspan x="0" y="0">Off</tspan></text>
+  </g>
+  <g id="Ebene_4" data-name="Ebene 4">
+    <polyline class="cls-2" points="1515.6 216 1227.6 216 1227.6 72 1155.6 72 1155.6 216 867.6 216 867.6 72 795.6 72 795.6 216 507.6 216 507.6 72 435.6 72 435.6 216 147.6 216 147.6 72 75.6 72 75.6 216 3.6 216"/>
+    <polyline class="cls-2" points="3.6 432 75.6 432 75.6 288 219.6 288 219.6 432 435.6 432 435.6 288 579.6 288 579.6 432 795.6 432 795.6 288 939.6 288 939.6 432 1155.6 432 1155.6 288 1299.6 288 1299.6 432 1515.6 432"/>
+    <polyline class="cls-2" points="3.6 648 75.6 648 75.6 504 291.6 504 291.6 648 435.6 648 435.6 504 651.6 504 651.6 648 795.6 648 795.6 504 1011.6 504 1011.6 648 1155.6 648 1155.6 504 1371.6 504 1371.6 648 1515.6 648"/>
+    <polyline class="cls-2" points="3.6 864 75.6 864 75.6 720 363.6 720 363.6 864 435.6 864 435.6 720 723.6 720 723.6 864 795.6 864 795.6 720 1083.6 720 1083.6 864 1155.6 864 1155.6 720 1443.6 720 1443.6 864 1515.6 864"/>
+  </g>
+</svg>
