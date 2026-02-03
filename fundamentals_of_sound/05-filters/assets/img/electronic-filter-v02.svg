@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_4" data-name="Ebene 4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1864.8 648">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 6px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #c9d1d9;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 15px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #c9d1d9;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        font-family: Roboto-Regular, Roboto;
+        font-size: 48px;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="547.15 568.8 590.45 568.8 568.8 604.8 547.15 640.8 525.5 604.8 503.85 568.8 547.15 568.8"/>
+  <rect class="cls-1" x="187.2" y="86.4" width="216" height="72"/>
+  <line class="cls-2" x1="475.2" y1="259.2" x2="619.2" y2="259.2"/>
+  <line class="cls-2" x1="475.2" y1="288" x2="619.2" y2="288"/>
+  <line class="cls-1" x1="547.2" y1="424.8" x2="547.2" y2="288"/>
+  <line class="cls-1" x1="547.2" y1="259.2" x2="547.2" y2="122.4"/>
+  <line class="cls-1" x1="547.2" y1="122.4" x2="403.2" y2="122.4"/>
+  <line class="cls-1" x1="43.2" y1="122.4" x2="187.2" y2="122.4"/>
+  <line class="cls-1" x1="43.2" y1="424.8" x2="835.2" y2="424.8"/>
+  <line class="cls-1" x1="547.2" y1="122.4" x2="835.2" y2="122.4"/>
+  <line class="cls-1" x1="547.2" y1="568.8" x2="547.2" y2="424.8"/>
+  <circle class="cls-1" cx="28.8" cy="122.4" r="14.4"/>
+  <circle class="cls-1" cx="28.8" cy="424.8" r="14.4"/>
+  <circle class="cls-1" cx="849.6" cy="122.4" r="14.4"/>
+  <circle class="cls-1" cx="849.6" cy="424.8" r="14.4"/>
+  <text class="cls-4" transform="translate(2 279.64)"><tspan x="0" y="0">V</tspan></text>
+  <text class="cls-4" transform="translate(32.54 295.62) scale(.58)"><tspan x="0" y="0">In</tspan></text>
+  <text class="cls-4" transform="translate(812.43 279.64)"><tspan x="0" y="0">V</tspan></text>
+  <text class="cls-4" transform="translate(842.97 295.62) scale(.58)"><tspan x="0" y="0">Out</tspan></text>
+  <text class="cls-4" transform="translate(207.72 64.8)"><tspan x="0" y="0">Resis</tspan><tspan class="cls-5" x="116.13" y="0">t</tspan><tspan x="131.34" y="0">or</tspan></text>
+  <text class="cls-4" transform="translate(590.4 345.6)"><tspan x="0" y="0">Capaci</tspan><tspan class="cls-5" x="147.16" y="0">t</tspan><tspan x="162.38" y="0">or</tspan></text>
+  <path class="cls-3" d="m547.2,421.74c1.69,0,3.06,1.37,3.06,3.06s-1.37,3.06-3.06,3.06-3.06-1.37-3.06-3.06,1.37-3.06,3.06-3.06m0-11.34c-7.95,0-14.4,6.45-14.4,14.4s6.45,14.4,14.4,14.4,14.4-6.45,14.4-14.4-6.45-14.4-14.4-14.4h0Z"/>
+  <path class="cls-3" d="m547.2,119.34c1.69,0,3.06,1.37,3.06,3.06s-1.37,3.06-3.06,3.06-3.06-1.37-3.06-3.06,1.37-3.06,3.06-3.06m0-11.34c-7.95,0-14.4,6.45-14.4,14.4s6.45,14.4,14.4,14.4,14.4-6.45,14.4-14.4-6.45-14.4-14.4-14.4h0Z"/>
+  <polygon class="cls-1" points="1519.15 568.8 1562.45 568.8 1540.8 604.8 1519.15 640.8 1497.5 604.8 1475.85 568.8 1519.15 568.8"/>
+  <rect class="cls-1" x="1411.2" y="237.6" width="216" height="72" transform="translate(1792.8 -1245.6) rotate(90)"/>
+  <line class="cls-2" x1="1252.8" y1="194.4" x2="1252.8" y2="50.4"/>
+  <line class="cls-2" x1="1281.6" y1="194.4" x2="1281.6" y2="50.4"/>
+  <line class="cls-1" x1="1375.2" y1="122.4" x2="1281.6" y2="122.4"/>
+  <line class="cls-1" x1="1252.8" y1="122.4" x2="1159.2" y2="122.4"/>
+  <line class="cls-1" x1="1519.2" y1="122.4" x2="1375.2" y2="122.4"/>
+  <line class="cls-1" x1="1015.2" y1="122.4" x2="1159.2" y2="122.4"/>
+  <line class="cls-1" x1="1015.2" y1="424.8" x2="1807.2" y2="424.8"/>
+  <line class="cls-1" x1="1519.2" y1="122.4" x2="1807.2" y2="122.4"/>
+  <line class="cls-1" x1="1519.2" y1="568.8" x2="1519.2" y2="424.8"/>
+  <circle class="cls-1" cx="1000.8" cy="122.4" r="14.4"/>
+  <circle class="cls-1" cx="1000.8" cy="424.8" r="14.4"/>
+  <circle class="cls-1" cx="1821.6" cy="122.4" r="14.4"/>
+  <circle class="cls-1" cx="1821.6" cy="424.8" r="14.4"/>
+  <text class="cls-4" transform="translate(974.01 279.64)"><tspan x="0" y="0">V</tspan></text>
+  <text class="cls-4" transform="translate(1004.54 295.62) scale(.58)"><tspan x="0" y="0">In</tspan></text>
+  <text class="cls-4" transform="translate(1784.43 279.64)"><tspan x="0" y="0">V</tspan></text>
+  <text class="cls-4" transform="translate(1814.97 295.62) scale(.58)"><tspan x="0" y="0">Out</tspan></text>
+  <text class="cls-4" transform="translate(1569.6 388.8)"><tspan x="0" y="0">Resis</tspan><tspan class="cls-5" x="116.13" y="0">t</tspan><tspan x="131.34" y="0">or</tspan></text>
+  <text class="cls-4" transform="translate(1173.6 230.4)"><tspan x="0" y="0">Capaci</tspan><tspan class="cls-5" x="147.16" y="0">t</tspan><tspan x="162.38" y="0">or</tspan></text>
+  <path class="cls-3" d="m1519.2,421.74c1.69,0,3.06,1.37,3.06,3.06s-1.37,3.06-3.06,3.06-3.06-1.37-3.06-3.06,1.37-3.06,3.06-3.06m0-11.34c-7.95,0-14.4,6.45-14.4,14.4s6.45,14.4,14.4,14.4,14.4-6.45,14.4-14.4-6.45-14.4-14.4-14.4h0Z"/>
+  <path class="cls-3" d="m1519.2,119.34c1.69,0,3.06,1.37,3.06,3.06s-1.37,3.06-3.06,3.06-3.06-1.37-3.06-3.06,1.37-3.06,3.06-3.06m0-11.34c-7.95,0-14.4,6.45-14.4,14.4s6.45,14.4,14.4,14.4,14.4-6.45,14.4-14.4-6.45-14.4-14.4-14.4h0Z"/>
+  <line class="cls-1" x1="1519.15" y1="425.49" x2="1519.2" y2="381.6"/>
+  <line class="cls-1" x1="1519.15" y1="165.6" x2="1519.2" y2="121.71"/>
+</svg>
