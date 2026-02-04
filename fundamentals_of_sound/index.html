@@ -5,97 +5,131 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        @font-face {
-            font-family: 'Schibsted Grotesk';
-            src: url('./assets/fonts/schibsted-grotesk-regular.woff2') format('woff2');
-            font-weight: 400;
-            font-style: normal;
-            font-display: swap;
-        }
-        @font-face {
-            font-family: 'Schibsted Grotesk';
-            src: url('./assets/fonts/schibsted-grotesk-medium.woff2') format('woff2');
-            font-weight: 500;
-            font-style: normal;
-            font-display: swap;
-        }
-        @font-face {
-            font-family: 'Schibsted Grotesk';
-            src: url('./assets/fonts/schibsted-grotesk-semibold.woff2') format('woff2');
-            font-weight: 600;
-            font-style: normal;
-            font-display: swap;
-        }
-        @font-face {
-            font-family: 'Schibsted Grotesk';
-            src: url('./assets/fonts/schibsted-grotesk-bold.woff2') format('woff2');
-            font-weight: 700;
-            font-style: normal;
-            font-display: swap;
-        }
+       <style>
+@font-face {
+    font-family: 'Schibsted Grotesk';
+    src: url('./assets/fonts/schibsted-grotesk-regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Schibsted Grotesk';
+    src: url('./assets/fonts/schibsted-grotesk-medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Schibsted Grotesk';
+    src: url('./assets/fonts/schibsted-grotesk-semibold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Schibsted Grotesk';
+    src: url('./assets/fonts/schibsted-grotesk-bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
 
-        html, body {
-            margin: 0;
-            padding: 0;
-            min-height: 100vh;
-            background-color: #0D1117;
-        }
+html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background-color: #0D1117;
+}
 
-        .slide {
-            width: 1280px;
-            height: 720px;
-            margin: 0 auto;
-            padding: 70px;
-            box-sizing: border-box;
-            background-color: #0D1117;
-            color: #C9D1D9;
-            font-family: 'Schibsted Grotesk', sans-serif;
-            font-size: 35px;
-            letter-spacing: 1.25px;
-            line-height: 1.35;
-            word-wrap: break-word;
-        }
+.slide {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 70px;
+    box-sizing: border-box;
+    background-color: #0D1117;
+    color: #C9D1D9;
+    font-family: 'Schibsted Grotesk', sans-serif;
+    font-size: 35px;
+    letter-spacing: 1.25px;
+    line-height: 1.35;
+    word-wrap: break-word;
+}
 
-        .slide * {
-            zoom: 90%;
-            font-family: 'Schibsted Grotesk', sans-serif;
-        }
+.slide * {
+    font-family: 'Schibsted Grotesk', sans-serif;
+}
 
-        h1 {
-            font-size: 1.8em;
-            margin: 0.5em 0 1em;
-            border-bottom: 1px solid #C9D1D9;
-            text-align: center;
-        }
+h1 {
+    font-size: 1.8em;
+    margin: 0.5em 0 1em;
+    border-bottom: 1px solid #C9D1D9;
+    text-align: center;
+}
 
-        ol {
-            zoom: 70% !important;
-            padding-left: 1.5em;
-            margin: 1em 0 0;
-        }
+ol {
+    padding-left: 1.5em;
+    margin: 1em 0 0;
+    font-size: 0.78em;
+}
 
-        ol > li {
-            margin: 0.3em 0;
-        }
+ol > li {
+    margin: 0.3em 0;
+}
 
-        ol.appendix {
-            list-style-type: upper-alpha;
-            margin-top: 2em;
-        }
+ol.appendix {
+    list-style-type: upper-alpha;
+    margin-top: 2em;
+}
 
-        a {
-            color: #307EEF;
-            text-decoration: none;
-        }
+a {
+    color: #307EEF;
+    text-decoration: none;
+}
 
-        a:hover {
-            text-decoration: underline;
-        }
+a:hover {
+    text-decoration: underline;
+}
 
-        p {
-            zoom: 70% !important;
-            margin: 1em 0 0;
-        }
+p {
+    font-size: 0.78em;
+    margin: 1em 0 0;
+}
+
+@media (max-width: 768px) {
+    .slide {
+        padding: 40px 30px;
+        font-size: 24px;
+    }
+    
+    h1 {
+        font-size: 1.6em;
+    }
+}
+
+@media (max-width: 480px) {
+    .slide {
+        padding: 30px 20px;
+        font-size: 18px;
+        letter-spacing: 0.5px;
+    }
+    
+    h1 {
+        font-size: 1.4em;
+        margin: 0.3em 0 0.8em;
+    }
+    
+    ol {
+        padding-left: 1.2em;
+        font-size: 0.85em;
+    }
+    
+    p {
+        font-size: 0.85em;
+    }
+}
+</style>
     </style>
 </head>
 <body>
