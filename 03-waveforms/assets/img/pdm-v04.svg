@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1974.6 876.6">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        stroke: #307eef;
+        stroke-width: 5px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke: #c9d1d9;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        stroke: #d85648;
+        stroke-width: 4px;
+      }
+
+      .cls-5 {
+        fill: #c9d1d9;
+        font-family: Roboto-Regular, Roboto;
+        font-size: 48px;
+      }
+    </style>
+  </defs>
+  <g id="Pulses">
+    <polyline class="cls-4" points="1911.6 383.4 1911.6 27 1895.1 27 1895.1 383.4 1872.19 383.4 1872.19 27 1855.69 27 1855.69 383.4 1812.61 383.4 1812.61 27 1813.53 27 1795.2 27 1795.2 383.4 1732.88 383.4 1732.88 27 1715.46 27 1715.46 383.4 1634.81 383.4 1634.81 27 1617.39 27 1617.39 383.4 1309.44 383.4 1309.44 27 1291.11 27 1291.11 383.4 1212.29 383.4 1212.29 27 1193.96 27 1193.96 383.4 1131.63 383.4 1131.63 27 1113.3 27 1113.3 383.4 1071.14 383.4 1071.14 27 1053.73 27 1053.73 383.4 1031.73 383.4 1031.73 27 1013.4 27 1013.4 383.4 996.9 383.4 996.9 27 973.99 27 973.99 383.4 957.49 383.4 957.49 27 914.41 27 914.41 383.4 915.33 383.4 897 383.4 897 27 834.68 27 834.68 383.4 817.26 383.4 817.26 27 736.61 27 736.61 383.4 719.19 383.4 719.19 27 411.24 27 411.24 383.4 392.91 383.4 392.91 27 314.09 27 314.09 383.4 295.76 383.4 295.76 27 233.43 27 233.43 383.4 215.1 383.4 215.1 27 172.94 27 172.94 383.4 155.53 383.4 155.53 27 133.53 27 133.53 383.4 115.2 383.4 115.2 27"/>
+  </g>
+  <g id="Sine">
+    <g>
+      <path class="cls-2" d="m115.2,383.4c.49-.6.75-.92.75-.92l97.91-119.63,52.33-59.03,43.89-44.96,38.83-35.4,35.45-28.16,32.07-21.68,30.39-16.95,28.7-12.62,25.32-8.3,23.63-5.29,21.95-2.76,20.26-.69,20.26,1.1,20.26,2.88,21.95,5.12,23.63,7.8,25.32,10.93,28.7,15.49,32.07,21.03,33.76,26.1,35.45,31.39,40.52,40.25,45.58,49.89,55.71,65.82s32.57,40.3,63.51,78.59"/>
+      <path class="cls-2" d="m1013.4,383.4c.49.6.75.92.75.92l97.91,119.63,52.33,59.03,43.89,44.96,38.83,35.4,35.45,28.16,32.07,21.68,30.39,16.95,28.7,12.62,25.32,8.3,23.63,5.29,21.95,2.76,20.26.69,20.26-1.1,20.26-2.88,21.95-5.12,23.63-7.8,25.32-10.93,28.7-15.49,32.07-21.03,33.76-26.1,35.45-31.39,40.52-40.25,45.58-49.89,55.71-65.82s32.57-40.3,63.51-78.59"/>
+    </g>
+    <text class="cls-5" transform="translate(65.44 37.43)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-5" transform="translate(65.44 397.43)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-5" transform="translate(52.2 757.43)"><tspan x="0" y="0">-1</tspan></text>
+    <line class="cls-3" x1="293.4" y1="761.4" x2="293.4" y2="743.4"/>
+    <line class="cls-3" x1="473.4" y1="761.4" x2="473.4" y2="743.4"/>
+    <line class="cls-3" x1="653.4" y1="761.4" x2="653.4" y2="743.4"/>
+    <line class="cls-3" x1="833.4" y1="761.4" x2="833.4" y2="743.4"/>
+    <line class="cls-3" x1="1013.4" y1="761.4" x2="1013.4" y2="743.4"/>
+    <line class="cls-3" x1="1193.4" y1="761.4" x2="1193.4" y2="743.4"/>
+    <line class="cls-3" x1="1373.4" y1="761.4" x2="1373.4" y2="743.4"/>
+    <line class="cls-3" x1="1553.4" y1="761.4" x2="1553.4" y2="743.4"/>
+    <line class="cls-3" x1="1733.4" y1="761.4" x2="1733.4" y2="743.4"/>
+    <line class="cls-3" x1="1553.4" y1="761.4" x2="1553.4" y2="743.4"/>
+    <line class="cls-3" x1="95.4" y1="743.4" x2="113.4" y2="743.4"/>
+    <line class="cls-3" x1="95.4" y1="383.4" x2="113.4" y2="383.4"/>
+    <line class="cls-3" x1="95.4" y1="23.4" x2="113.4" y2="23.4"/>
+    <text class="cls-5" transform="translate(266.45 808.2)"><tspan x="0" y="0">20</tspan></text>
+    <text class="cls-5" transform="translate(446.45 808.2)"><tspan x="0" y="0">40</tspan></text>
+    <text class="cls-5" transform="translate(626.45 808.2)"><tspan x="0" y="0">60</tspan></text>
+    <text class="cls-5" transform="translate(806.45 808.2)"><tspan x="0" y="0">80</tspan></text>
+    <text class="cls-5" transform="translate(972.97 808.2)"><tspan x="0" y="0">100</tspan></text>
+    <text class="cls-5" transform="translate(1152.97 808.2)"><tspan x="0" y="0">120</tspan></text>
+    <text class="cls-5" transform="translate(1332.97 808.2)"><tspan x="0" y="0">140</tspan></text>
+    <text class="cls-5" transform="translate(1512.97 808.2)"><tspan x="0" y="0">160</tspan></text>
+    <text class="cls-5" transform="translate(1692.97 808.2)"><tspan x="0" y="0">180</tspan></text>
+    <text class="cls-5" transform="translate(1872.97 808.2)"><tspan x="0" y="0">200</tspan></text>
+    <text class="cls-5" transform="translate(99.92 808.2)"><tspan x="0" y="0">0</tspan></text>
+    <line class="cls-3" x1="113.4" y1="761.4" x2="113.4" y2="743.4"/>
+    <text class="cls-5" transform="translate(933.07 864)"><tspan x="0" y="0">Sample</tspan></text>
+    <text class="cls-5" transform="translate(48.6 464.68) rotate(-90)"><tspan class="cls-1" x="0" y="0">V</tspan><tspan x="29.46" y="0">oltage</tspan></text>
+    <text class="cls-5" transform="translate(1969.17 232.29) rotate(-90)"><tspan x="0" y="0">bit</tspan></text>
+  </g>
+  <g id="Ebene_4" data-name="Ebene 4">
+    <rect class="cls-3" x="113.4" y="23.4" width="1800" height="720"/>
+  </g>
+</svg>
