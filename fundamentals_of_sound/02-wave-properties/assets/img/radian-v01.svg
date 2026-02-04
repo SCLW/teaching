@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Sine_Desmos" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-dasharray: 0 0 12 12;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 2.83px;
+      }
+
+      .cls-1, .cls-5, .cls-6 {
+        stroke: #c9d1d9;
+      }
+
+      .cls-7 {
+        fill: #c9d1d9;
+        font-family: SchibstedGrotesk-Regular, 'Schibsted Grotesk';
+        font-size: 36px;
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-2 {
+        stroke-width: 5px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #307eef;
+      }
+
+      .cls-3 {
+        stroke-width: 5px;
+      }
+
+      .cls-8 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-6 {
+        stroke-dasharray: 0 0 12 12;
+      }
+    </style>
+  </defs>
+  <line class="cls-3" x1="360" y1="360" x2="576" y2="360"/>
+  <g id="sketch-87777743">
+    <path class="cls-2" d="m576,359.95h0l-.51-14.84-1.53-14.77-2.54-14.63-3.91-15.72-5.08-15.38-6.22-14.96-7.98-15.63-9.22-14.93-11.25-15.19-12.53-14.15-13.72-13-13.71-10.95-11.13-7.65"/>
+  </g>
+  <g id="sketch-87777743-2" data-name="sketch-87777743">
+    <path class="cls-2" d="m576,359.95h0l-.51-14.84-1.53-14.77-2.54-14.63-3.91-15.72-5.08-15.38-6.22-14.96-7.98-15.63-9.22-14.93-11.25-15.19-12.53-14.15-13.72-13-13.71-10.95-11.13-7.65"/>
+  </g>
+  <g id="sketch-87777743-3" data-name="sketch-87777743">
+    <path class="cls-2" d="m576,359.95h0l-.51-14.84-1.53-14.77-2.54-14.63-3.91-15.72-5.08-15.38-6.22-14.96-7.98-15.63-9.22-14.93-11.25-15.19-12.53-14.15-13.72-13-13.71-10.95-11.13-7.65"/>
+  </g>
+  <path class="cls-4" d="m359.94,359.95h0l116.74-181.8"/>
+  <path class="cls-4" d="m359.94,359.95h216.06"/>
+  <g id="sketch-87777743-4" data-name="sketch-87777743">
+    <path class="cls-4" d="m413.96,359.95h0l-.51-7.4-1.61-7.59-2.82-7.59-4.11-7.36-5.67-7.13-6.78-6.07-3.32-2.31"/>
+  </g>
+  <line class="cls-5" y1="360" x2="720" y2="360"/>
+  <line class="cls-5" x1="360" y1="720" x2="360"/>
+  <circle class="cls-5" cx="360" cy="360" r="216"/>
+  <line class="cls-5" x1="144" y1="374.4" x2="144" y2="345.6"/>
+  <line class="cls-5" x1="576" y1="374.4" x2="576" y2="345.6"/>
+  <line class="cls-5" x1="374.4" y1="144" x2="345.6" y2="144"/>
+  <line class="cls-5" x1="345.6" y1="576" x2="374.4" y2="576"/>
+  <text class="cls-7" transform="translate(558.58 254.17)"><tspan x="0" y="0">1 </tspan><tspan class="cls-8" x="21.5" y="0">r</tspan><tspan x="34.84" y="0">ad</tspan></text>
+  <text class="cls-7" transform="translate(460.78 388.8)"><tspan x="0" y="0">r</tspan></text>
+  <g>
+    <line class="cls-5" x1="360" y1="360" x2="354.06" y2="359.15"/>
+    <line class="cls-6" x1="342.18" y1="357.46" x2="158.04" y2="331.21"/>
+    <line class="cls-5" x1="152.1" y1="330.36" x2="146.16" y2="329.52"/>
+  </g>
+  <g>
+    <line class="cls-5" x1="359.94" y1="359.95" x2="357.45" y2="354.49"/>
+    <line class="cls-1" x1="352.45" y1="343.58" x2="275.03" y2="174.4"/>
+    <line class="cls-5" x1="272.53" y1="168.94" x2="270.03" y2="163.49"/>
+  </g>
+  <text class="cls-7" transform="translate(375.1 133.04)"><tspan x="0" y="0">2 </tspan><tspan class="cls-8" x="29.74" y="0">r</tspan><tspan x="43.08" y="0">ad</tspan></text>
+  <text class="cls-7" transform="translate(98.15 218.63)"><tspan x="0" y="0">3 </tspan><tspan class="cls-8" x="29.87" y="0">r</tspan><tspan x="43.21" y="0">ad</tspan></text>
+  <text class="cls-7" transform="translate(50.78 350.4)"><tspan x="0" y="0">π </tspan><tspan class="cls-8" x="31.8" y="0">r</tspan><tspan x="45.14" y="0">ad</tspan></text>
+</svg>
