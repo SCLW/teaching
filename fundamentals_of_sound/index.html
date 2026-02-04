@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Fundamentals of Sound</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        @font-face {
+            font-family: 'Schibsted Grotesk';
+            src: url('./assets/fonts/schibsted-grotesk-regular.woff2') format('woff2');
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Schibsted Grotesk';
+            src: url('./assets/fonts/schibsted-grotesk-medium.woff2') format('woff2');
+            font-weight: 500;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Schibsted Grotesk';
+            src: url('./assets/fonts/schibsted-grotesk-semibold.woff2') format('woff2');
+            font-weight: 600;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Schibsted Grotesk';
+            src: url('./assets/fonts/schibsted-grotesk-bold.woff2') format('woff2');
+            font-weight: 700;
+            font-style: normal;
+            font-display: swap;
+        }
+
+        html, body {
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            background-color: #0D1117;
+        }
+
+        .slide {
+            width: 1280px;
+            height: 720px;
+            margin: 0 auto;
+            padding: 70px;
+            box-sizing: border-box;
+            background-color: #0D1117;
+            color: #C9D1D9;
+            font-family: 'Schibsted Grotesk', sans-serif;
+            font-size: 35px;
+            letter-spacing: 1.25px;
+            line-height: 1.35;
+            word-wrap: break-word;
+        }
+
+        .slide * {
+            zoom: 90%;
+            font-family: 'Schibsted Grotesk', sans-serif;
+        }
+
+        h1 {
+            font-size: 1.8em;
+            margin: 0.5em 0 1em;
+            border-bottom: 1px solid #C9D1D9;
+            text-align: center;
+        }
+
+        ol {
+            zoom: 70% !important;
+            padding-left: 1.5em;
+            margin: 1em 0 0;
+        }
+
+        ol > li {
+            margin: 0.3em 0;
+        }
+
+        ol.appendix {
+            list-style-type: upper-alpha;
+            margin-top: 2em;
+        }
+
+        a {
+            color: #307EEF;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        p {
+            zoom: 70% !important;
+            margin: 1em 0 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide">
+        <h1>Fundamentals of Sound</h1>
+        <p><em>An introduction to acoustics, psychoacoustics, and digital audio for artists working with sound, space, and media.</em></p>
+        <ol>
+            <li><a href="01-vibration-and-sound/" target="_blank" rel="noopener">Vibration and Sound</a> · Mechanical oscillation, wave propagation, and sound fields</li>
+            <li><a href="02-wave-properties/" target="_blank" rel="noopener">Wave Properties</a> · Frequency, wavelength, amplitude, phase</li>
+            <li><a href="03-waveforms/" target="_blank" rel="noopener">Waveforms</a> · Periodic and stochastic audio signals</li>
+            <li><a href="04-spectral-analysis/" target="_blank" rel="noopener">Spectral Analysis</a> · Fourier transform and the frequency domain</li>
+            <li><a href="05-filters/" target="_blank" rel="noopener">Filters</a> · Shaping the spectrum of audio signals</li>
+            <li><a href="06-anatomy-of-hearing/" target="_blank" rel="noopener">Anatomy of Hearing</a> · Structure and function of the auditory system</li>
+            <li><a href="07-psychoacoustics/" target="_blank" rel="noopener">Psychoacoustics</a> · Perception of loudness, pitch, and timbre</li>
+            <li><a href="08-sound-localization/" target="_blank" rel="noopener">Sound Localization</a> · Binaural hearing, HRTF, and spatial perception</li>
+            <li><a href="09-room-acoustics/" target="_blank" rel="noopener">Room Acoustics</a> · Reverberation, reflections, and room modes</li>
+            <li><a href="10-digital-audio/" target="_blank" rel="noopener">Digital Audio</a> · Sampling, quantization, and digital representation of sound</li>
+        </ol>
+        <ol class="appendix">
+            <li><a href="appendix/" target="_blank" rel="noopener">Appendix</a></li>
+            <li><a href="literature/" target="_blank" rel="noopener">Literature</a></li>
+        </ol>
+    </div>
+</body>
+</html>
