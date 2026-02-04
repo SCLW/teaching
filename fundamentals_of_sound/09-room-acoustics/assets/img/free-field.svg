@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_5" data-name="Ebene 5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 511.2 511.2">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: .28px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        stroke: #c9d1d9;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: .85px;
+      }
+
+      .cls-16 {
+        fill: #307eef;
+      }
+
+      .cls-3 {
+        stroke-width: 1.7px;
+      }
+
+      .cls-4 {
+        stroke-width: 2.27px;
+      }
+
+      .cls-5 {
+        stroke-width: 2.55px;
+      }
+
+      .cls-6 {
+        stroke-width: 3.4px;
+      }
+
+      .cls-7 {
+        stroke-width: 1.42px;
+      }
+
+      .cls-8 {
+        stroke-width: 3.69px;
+      }
+
+      .cls-9 {
+        stroke-width: 3.97px;
+      }
+
+      .cls-10 {
+        stroke-width: .57px;
+      }
+
+      .cls-11 {
+        stroke-width: 1.13px;
+      }
+
+      .cls-12 {
+        stroke-width: 3.12px;
+      }
+
+      .cls-13 {
+        stroke-width: 2.83px;
+      }
+
+      .cls-14 {
+        stroke-width: 1.98px;
+      }
+
+      .cls-15 {
+        stroke: #307eef;
+        stroke-width: 5.67px;
+      }
+    </style>
+  </defs>
+  <g>
+    <circle class="cls-9" cx="255.6" cy="255.6" r="18"/>
+    <circle class="cls-8" cx="255.6" cy="255.6" r="36"/>
+    <circle class="cls-6" cx="255.6" cy="255.6" r="54"/>
+    <circle class="cls-12" cx="255.6" cy="255.6" r="72"/>
+    <circle class="cls-13" cx="255.6" cy="255.6" r="90"/>
+    <circle class="cls-5" cx="255.6" cy="255.6" r="108"/>
+    <circle class="cls-4" cx="255.6" cy="255.6" r="126"/>
+    <circle class="cls-14" cx="255.6" cy="255.6" r="144"/>
+    <circle class="cls-3" cx="255.6" cy="255.6" r="162"/>
+    <circle class="cls-7" cx="255.6" cy="255.6" r="180"/>
+    <circle class="cls-11" cx="255.6" cy="255.6" r="198"/>
+    <circle class="cls-2" cx="255.6" cy="255.6" r="216"/>
+    <circle class="cls-10" cx="255.6" cy="255.6" r="234"/>
+    <circle class="cls-1" cx="255.6" cy="255.6" r="252"/>
+  </g>
+  <g>
+    <g>
+      <line class="cls-15" x1="172.71" y1="255.6" x2="338.49" y2="255.6"/>
+      <polygon class="cls-16" points="178.33 263.84 147.6 255.61 178.33 247.36 178.33 263.84"/>
+      <polygon class="cls-16" points="332.87 263.84 363.6 255.61 332.87 247.36 332.87 263.84"/>
+    </g>
+    <g>
+      <line class="cls-15" x1="255.6" y1="338.49" x2="255.6" y2="172.71"/>
+      <polygon class="cls-16" points="263.84 332.87 255.61 363.6 247.36 332.87 263.84 332.87"/>
+      <polygon class="cls-16" points="263.84 178.33 255.61 147.6 247.36 178.33 263.84 178.33"/>
+    </g>
+    <g>
+      <line class="cls-15" x1="196.99" y1="314.21" x2="314.21" y2="196.99"/>
+      <polygon class="cls-16" points="206.79 316.06 179.24 331.97 195.14 304.41 206.79 316.06"/>
+      <polygon class="cls-16" points="316.06 206.79 331.97 179.24 304.41 195.14 316.06 206.79"/>
+    </g>
+    <g>
+      <line class="cls-15" x1="314.21" y1="314.21" x2="196.99" y2="196.99"/>
+      <polygon class="cls-16" points="316.06 304.41 331.97 331.96 304.41 316.06 316.06 304.41"/>
+      <polygon class="cls-16" points="206.79 195.14 179.24 179.23 195.14 206.79 206.79 195.14"/>
+    </g>
+  </g>
+</svg>

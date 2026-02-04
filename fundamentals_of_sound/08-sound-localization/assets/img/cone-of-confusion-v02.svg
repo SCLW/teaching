@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_4" data-name="Ebene 4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1213.77 522.29">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #c9d1d9;
+      }
+
+      .cls-6 {
+        fill: url(#Unbenannter_Verlauf_14);
+      }
+
+      .cls-2 {
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        stroke-width: 2.83px;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-width: 1px;
+      }
+
+      .cls-5 {
+        fill: url(#Unbenannter_Verlauf_18);
+      }
+    </style>
+    <linearGradient id="Unbenannter_Verlauf_14" data-name="Unbenannter Verlauf 14" x1="669.2" y1="384.74" x2="669.2" y2="-73.94" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c9d1d9"/>
+      <stop offset=".06" stop-color="#c9d1d9" stop-opacity=".98"/>
+      <stop offset=".13" stop-color="#c9d1d9" stop-opacity=".93"/>
+      <stop offset=".19" stop-color="#c9d1d9" stop-opacity=".84"/>
+      <stop offset=".25" stop-color="#c9d1d9" stop-opacity=".71"/>
+      <stop offset=".31" stop-color="#c9d1d9" stop-opacity=".54"/>
+      <stop offset=".37" stop-color="#c9d1d9" stop-opacity=".35"/>
+      <stop offset=".41" stop-color="#c9d1d9" stop-opacity=".2"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_18" data-name="Unbenannter Verlauf 18" x1="1757.41" y1="370" x2="1757.41" y2="-99.61" gradientTransform="translate(2757.97 504.01) rotate(-180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c9d1d9"/>
+      <stop offset=".06" stop-color="#c9d1d9" stop-opacity=".98"/>
+      <stop offset=".13" stop-color="#c9d1d9" stop-opacity=".93"/>
+      <stop offset=".19" stop-color="#c9d1d9" stop-opacity=".84"/>
+      <stop offset=".25" stop-color="#c9d1d9" stop-opacity=".71"/>
+      <stop offset=".31" stop-color="#c9d1d9" stop-opacity=".54"/>
+      <stop offset=".37" stop-color="#c9d1d9" stop-opacity=".35"/>
+      <stop offset=".41" stop-color="#c9d1d9" stop-opacity=".2"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-6" d="m867.95,260.86c0-121.4,44.58-222.86,104.12-247.8l-288.63,118.07-317.12,129.73,317.12,129.73,288.55,118.04c-59.51-25-104.04-126.43-104.04-247.77Z"/>
+  <ellipse class="cls-5" cx="1000.56" cy="260.86" rx="132.61" ry="253.69"/>
+  <line class="cls-3" x1="867.21" y1="260.86" x2="1209.07" y2="260.86"/>
+  <ellipse class="cls-2" cx="255.77" cy="272.56" rx="153.55" ry="180.59"/>
+  <circle class="cls-1" cx="294.21" cy="207.07" r="16.44"/>
+  <circle class="cls-1" cx="195.55" cy="198.85" r="13.16"/>
+  <path class="cls-1" d="m228.43,272.85c-10.96-16.44-13.7-32.89-8.22-49.33"/>
+  <path class="cls-1" d="m179.1,338.63c32.89,21.93,65.78,21.93,98.67,0"/>
+  <line class="cls-4" x1="10.75" y1="260.86" x2="102.58" y2="260.86"/>
+</svg>
