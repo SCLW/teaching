@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" width="762.5" height="827.2" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 762.5 827.2">
+  <defs>
+    <linearGradient id="Unbenannter_Verlauf" data-name="Unbenannter Verlauf" x1="182" y1="420.4" x2="545" y2="420.4" gradientTransform="translate(0 60)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset=".04" stop-color="#32373d"/>
+      <stop offset=".09" stop-color="#555b61"/>
+      <stop offset=".15" stop-color="#757b82"/>
+      <stop offset=".21" stop-color="#8f969d"/>
+      <stop offset=".28" stop-color="#a4abb3"/>
+      <stop offset=".36" stop-color="#b5bcc4"/>
+      <stop offset=".46" stop-color="#c0c8d0"/>
+      <stop offset=".61" stop-color="#c7cfd7"/>
+      <stop offset="1" stop-color="#c9d1d9"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_2" data-name="Unbenannter Verlauf 2" x1="254.4" y1="406.2" x2="472.4" y2="406.2" gradientTransform="translate(0 60)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset=".04" stop-color="#32373d"/>
+      <stop offset=".09" stop-color="#555b61"/>
+      <stop offset=".15" stop-color="#757b82"/>
+      <stop offset=".21" stop-color="#8f969d"/>
+      <stop offset=".28" stop-color="#a4abb3"/>
+      <stop offset=".36" stop-color="#b5bcc4"/>
+      <stop offset=".46" stop-color="#c0c8d0"/>
+      <stop offset=".61" stop-color="#c7cfd7"/>
+      <stop offset="1" stop-color="#c9d1d9"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_3" data-name="Unbenannter Verlauf 3" x1="-1022.06" y1="312.43" x2="-659.06" y2="312.43" gradientTransform="translate(-477.16 564.83) rotate(-180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c9d1d9" stop-opacity=".5"/>
+      <stop offset=".46" stop-color="#c4ccd4" stop-opacity=".51"/>
+      <stop offset=".63" stop-color="#b6bdc5" stop-opacity=".55"/>
+      <stop offset=".75" stop-color="#9ca4ab" stop-opacity=".62"/>
+      <stop offset=".84" stop-color="#787f86" stop-opacity=".71"/>
+      <stop offset=".92" stop-color="#4a4f56" stop-opacity=".84"/>
+      <stop offset="1" stop-color="#11151b" stop-opacity=".99"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_4" data-name="Unbenannter Verlauf 4" x1="254.4" y1="192.4" x2="472.4" y2="192.4" gradientTransform="translate(0 60)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset=".09" stop-color="#15191f"/>
+      <stop offset=".23" stop-color="#2a2f35"/>
+      <stop offset=".4" stop-color="#4e545a"/>
+      <stop offset=".6" stop-color="#80868e"/>
+      <stop offset=".82" stop-color="#bfc7ce"/>
+      <stop offset=".85" stop-color="#c9d1d9"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_5" data-name="Unbenannter Verlauf 5" x1="352.37" y1="408.25" x2="374.57" y2="408.25" gradientTransform="translate(0 60)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset=".06" stop-color="#21262c"/>
+      <stop offset=".21" stop-color="#545960"/>
+      <stop offset=".35" stop-color="#7e848b"/>
+      <stop offset=".49" stop-color="#9ea5ad"/>
+      <stop offset=".63" stop-color="#b6bdc5"/>
+      <stop offset=".75" stop-color="#c4ccd3"/>
+      <stop offset=".85" stop-color="#c9d1d9"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_6" data-name="Unbenannter Verlauf 6" x1="352.37" y1="234.9" x2="374.55" y2="234.9" gradientTransform="translate(0 60)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset=".06" stop-color="#21262c"/>
+      <stop offset=".21" stop-color="#545960"/>
+      <stop offset=".35" stop-color="#7e848b"/>
+      <stop offset=".49" stop-color="#9ea5ad"/>
+      <stop offset=".63" stop-color="#b6bdc5"/>
+      <stop offset=".75" stop-color="#c4ccd3"/>
+      <stop offset=".85" stop-color="#c9d1d9"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_7" data-name="Unbenannter Verlauf 7" x1="352.37" y1="213.6" x2="374.57" y2="213.6" gradientTransform="translate(0 60)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset=".06" stop-color="#21262c"/>
+      <stop offset=".21" stop-color="#545960"/>
+      <stop offset=".35" stop-color="#7e848b"/>
+      <stop offset=".49" stop-color="#9ea5ad"/>
+      <stop offset=".63" stop-color="#b6bdc5"/>
+      <stop offset=".75" stop-color="#c4ccd3"/>
+      <stop offset=".85" stop-color="#c9d1d9"/>
+    </linearGradient>
+  </defs>
+  <g id="Ebene_6_Kopie" data-name="Ebene 6 Kopie">
+    <ellipse cx="363.4" cy="252.4" rx="181.5" ry="70.9" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+    <ellipse cx="363.4" cy="637.4" rx="181.5" ry="71" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+    <line x1="545" y1="252.4" x2="545" y2="637.4" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+    <line x1="181.9" y1="252.4" x2="181.9" y2="637.4" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+  <g id="Coordinates">
+    <g isolation="isolate">
+      <path d="m731,557.9l9.8-13.1-8.9-12.2h4.5l6.9,9.6,6.7-9.6h4.8l-9.3,12.2,9.9,13.1h-5.1l-7.3-10.1-7.4,10.1h-4.6Z" fill="#c9d1d9"/>
+    </g>
+    <g isolation="isolate">
+      <path d="m609,321.9v-3.3h3.8c.3,0,.5-.1.7-.3s.3-.5.4-.9l1.8-5.2-.4,1.8-10.2-26.6h4.4l8.1,23.3-.9-.2,8-23.1h4.4l-12,31.6c-.3.9-.9,1.5-1.7,2.1s-1.6.8-2.4.8h-4Z" fill="#c9d1d9"/>
+    </g>
+    <g isolation="isolate">
+      <path d="m353.4,27.5v-3.4l15.2-18.6h-14.6v-3.3h19.3v3.4l-15.4,18.6h16v3.4h-20.5v-.1Z" fill="#c9d1d9"/>
+    </g>
+  </g>
+  <g id="rings_lines" data-name="rings lines">
+    <ellipse cx="363.4" cy="252.4" rx="181.5" ry="70.9" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width=".75"/>
+    <ellipse cx="363.4" cy="637.4" rx="181.5" ry="71" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width=".75"/>
+    <line x1="181.9" y1="252.4" x2="181.9" y2="637.4" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width=".75"/>
+    <line x1="545" y1="252.4" x2="545" y2="637.4" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width=".75"/>
+    <ellipse cx="363.4" cy="637.4" rx="109" ry="42.6" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width=".75"/>
+    <ellipse cx="363.4" cy="637.4" rx="109" ry="42.6" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width=".75"/>
+    <ellipse cx="363.4" cy="252.4" rx="109" ry="42.6" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width=".75"/>
+  </g>
+  <g id="cylinder_outer" data-name="cylinder outer">
+    <path d="m545,637.4V252.4c0,39.2-81.3,70.9-181.5,70.9s-181.5-31.8-181.5-70.9v385c0,39.2,81.3,71,181.5,71s181.5-31.8,181.5-71" fill="url(#Unbenannter_Verlauf)" isolation="isolate" opacity=".5" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+  <g id="cylinder_inner" data-name="cylinder inner">
+    <path d="m472.4,637.4V252.4c0,23.5-48.8,42.6-109,42.6s-109-19.1-109-42.6v385c0,23.5,48.8,42.6,109,42.6s109-19.1,109-42.6" fill="url(#Unbenannter_Verlauf_2)" isolation="isolate" opacity=".5" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width=".75"/>
+  </g>
+  <g id="upper_cut" data-name="upper cut">
+    <ellipse cx="363.4" cy="252.4" rx="181.5" ry="70.9" fill="url(#Unbenannter_Verlauf_3)" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width=".75"/>
+    <ellipse cx="363.4" cy="252.4" rx="109" ry="42.6" fill="url(#Unbenannter_Verlauf_4)" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width=".75"/>
+  </g>
+  <g id="Ebene_11_Kopie" data-name="Ebene 11 Kopie">
+    <path d="m352.4,294.8v342.6c0,2.4,5,4.3,11.1,4.3s11.1-1.9,11.1-4.3v-342.6c-3.7.1-7.4.2-11.1.2s-7.5,0-11.1-.2h0Z" fill="url(#Unbenannter_Verlauf_5)" isolation="isolate" opacity=".5" stroke="#7f7f7f" stroke-miterlimit="10" stroke-width=".75"/>
+  </g>
+  <g id="Ebene_11" data-name="Ebene 11">
+    <ellipse cx="363.5" cy="252.4" rx="11.1" ry="4.3" fill="#c9d1d9" isolation="isolate" opacity=".6" stroke="#7f7f7f" stroke-miterlimit="10" stroke-width=".75"/>
+    <g>
+      <path d="m374.5,294.8c-3.7.1-7.4.2-11.1.2s-7.4-.1-11-.2" fill="url(#Unbenannter_Verlauf_6)" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width=".75"/>
+      <path d="m352.4,294.8v-42.4c0,2.4,5,4.3,11.1,4.3s11.1-1.9,11.1-4.3v42.4" fill="url(#Unbenannter_Verlauf_7)" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width=".75"/>
+    </g>
+  </g>
+  <g id="arrows">
+    <g>
+      <line x1="697.7" y1="533.8" x2="574.3" y2="501.8" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+      <polygon points="694.1 523.9 723.4 540.5 689.8 540.8 694.1 523.9" fill="#c9d1d9"/>
+    </g>
+    <line x1="152.6" y1="392.1" x2="3.4" y2="353.3" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+    <g>
+      <line x1="581.6" y1="321.6" x2="552.3" y2="338.4" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+      <polygon points="572.1 317 604.6 308.3 580.8 332.1 572.1 317" fill="#c9d1d9"/>
+    </g>
+    <line x1="174.6" y1="555.5" x2="240.7" y2="517.5" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+    <line x1="363.4" y1="446.9" x2="182.3" y2="399.9" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+    <line x1="152.6" y1="392.1" x2="182.3" y2="399.9" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+    <line x1="363.4" y1="446.9" x2="545" y2="494.1" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+    <line x1="485.6" y1="376.7" x2="552.3" y2="338.4" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+    <line x1="363.4" y1="446.9" x2="240.7" y2="517.5" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+    <line x1="363.4" y1="446.9" x2="485.6" y2="376.7" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+    <line x1="363.4" y1="778" x2="363.4" y2="708.4" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+    <line x1="545" y1="494.1" x2="574.3" y2="501.8" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+    <line x1="174.6" y1="555.5" x2="122.2" y2="585.5" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+    <line x1="363.4" y1="708.4" x2="363.5" y2="252.4" fill="none" isolation="isolate" opacity=".5" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+  <g id="Ebene_10" data-name="Ebene 10">
+    <line x1="545" y1="342.6" x2="261.3" y2="505.6" fill="none" isolation="isolate" opacity=".5" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="4"/>
+    <line x1="545" y1="494.1" x2="181.9" y2="399.7" fill="none" isolation="isolate" opacity=".5" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="4"/>
+    <line x1="3.4" y1="353.3" x2="181.9" y2="399.7" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="4"/>
+    <line x1="261.3" y1="505.6" x2="122.2" y2="585.5" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="4"/>
+    <g>
+      <line x1="573.9" y1="326" x2="545" y2="342.6" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="4"/>
+      <polygon points="561.2 319.9 604.6 308.3 572.8 340 561.2 319.9" fill="#c9d1d9"/>
+    </g>
+    <g>
+      <line x1="689.1" y1="531.6" x2="545" y2="494.1" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="4"/>
+      <polygon points="684.4 518.4 723.4 540.5 678.5 540.9 684.4 518.4" fill="#c9d1d9"/>
+    </g>
+    <line x1="363.4" y1="827.2" x2="363.4" y2="708.4" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="4"/>
+    <g>
+      <line x1="363.5" y1="252.4" x2="363.5" y2="68" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="4"/>
+      <polygon points="375.1 75.9 363.5 32.5 351.8 75.9 375.1 75.9" fill="#c9d1d9"/>
+    </g>
+  </g>
+  <g id="Ebene_15" data-name="Ebene 15">
+    <line x1="363.4" y1="106.6" x2="363.4" y2="252.4" fill="none" stroke="#307eef" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="363.4" y1="295" x2="363.4" y2="252.4" fill="none" isolation="isolate" opacity=".8" stroke="#307eef" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="363.4" y1="323.4" x2="363.4" y2="294.9" fill="none" isolation="isolate" opacity=".8" stroke="#307eef" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="363.5" y1="641.7" x2="363.5" y2="323.4" fill="none" isolation="isolate" opacity=".8" stroke="#307eef" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="363.4" y1="680" x2="363.4" y2="641.7" fill="none" isolation="isolate" opacity=".8" stroke="#307eef" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="363.4" y1="708.4" x2="363.4" y2="680" fill="none" isolation="isolate" opacity=".8" stroke="#307eef" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="363.4" y1="802.6" x2="363.4" y2="708.4" fill="none" stroke="#307eef" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

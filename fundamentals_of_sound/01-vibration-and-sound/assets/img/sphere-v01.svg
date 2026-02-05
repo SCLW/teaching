@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" width="762.5" height="615.5" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 762.5 615.5">
+  <defs>
+    <radialGradient id="Unbenannter_Verlauf" data-name="Unbenannter Verlauf" cx="363.4" cy="478.1" fx="363.4" fy="478.1" r="217.8" gradientTransform="translate(0 -150)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset=".44" stop-color="#0e1218"/>
+      <stop offset=".6" stop-color="#15191e"/>
+      <stop offset=".71" stop-color="#212429"/>
+      <stop offset=".8" stop-color="#323539"/>
+      <stop offset=".88" stop-color="#484a4d"/>
+      <stop offset=".94" stop-color="#626365"/>
+      <stop offset="1" stop-color="#7f7f7f"/>
+    </radialGradient>
+  </defs>
+  <g id="Ebene_1-2" data-name="Ebene 1">
+    <circle cx="363.4" cy="328.1" r="217.8" fill="url(#Unbenannter_Verlauf)" stroke="#7f7f7f" stroke-miterlimit="10"/>
+    <g>
+      <line x1="363.4" y1="110.3" x2="363.4" y2="67.3" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+      <polygon points="372.1 73.2 363.4 40.7 354.7 73.2 372.1 73.2" fill="#c9d1d9"/>
+    </g>
+    <circle cx="363.4" cy="328.1" r="9.4" fill="#c9d1d9"/>
+    <line x1="363.4" y1="615.5" x2="363.4" y2="545.9" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+    <line x1="363.4" y1="110.3" x2="363.4" y2="545.9" fill="none" isolation="isolate" opacity=".5" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+  <g id="Ebene_5" data-name="Ebene 5">
+    <g isolation="isolate">
+      <path d="m731,439l9.8-13.1-8.9-12.2h4.5l6.9,9.6,6.7-9.6h4.8l-9.3,12.2,9.9,13.1h-5.1l-7.3-10.1-7.4,10.1h-4.6Z" fill="#c9d1d9"/>
+    </g>
+    <g isolation="isolate">
+      <path d="m609,203v-3.3h3.8c.3,0,.5-.1.7-.3s.3-.5.4-.9l1.8-5.2-.4,1.8-10.2-26.6h4.4l8.1,23.3-.9-.2,8-23.1h4.4l-12.1,31.6c-.3.9-.9,1.5-1.7,2.1s-1.6.8-2.4.8h-3.9Z" fill="#c9d1d9"/>
+    </g>
+    <g isolation="isolate">
+      <path d="m353.4,29.6v-3.4l15.2-18.6h-14.6v-3.3h19.3v3.4l-15.4,18.6h16v3.4h-20.5v-.1Z" fill="#c9d1d9"/>
+    </g>
+  </g>
+  <g id="Signal_Flow" data-name="Signal Flow">
+    <ellipse cx="363.4" cy="328.3" rx="217.8" ry="85.1" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width=".75"/>
+    <ellipse cx="363.4" cy="328.1" rx="181.5" ry="71" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width=".75"/>
+    <ellipse cx="363.4" cy="328.1" rx="145.3" ry="56.8" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width=".75"/>
+    <ellipse cx="363.4" cy="328.1" rx="109" ry="42.6" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width=".75"/>
+    <ellipse cx="363.4" cy="328.1" rx="72.7" ry="28.4" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width=".75"/>
+    <ellipse cx="363.4" cy="328.1" rx="36.5" ry="14.3" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width=".75"/>
+    <g>
+      <line x1="697.7" y1="415" x2="574.3" y2="382.9" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+      <polygon points="694.1 405.1 723.4 421.7 689.8 422 694.1 405.1" fill="#c9d1d9"/>
+    </g>
+    <line x1="152.6" y1="273.3" x2="3.4" y2="234.5" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+    <line x1="545" y1="375.3" x2="574.3" y2="382.9" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+    <line x1="174.6" y1="436.6" x2="122.2" y2="466.7" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+    <g>
+      <line x1="581.6" y1="202.8" x2="552.3" y2="219.6" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+      <polygon points="572.1 198.2 604.6 189.5 580.8 213.3 572.1 198.2" fill="#c9d1d9"/>
+    </g>
+    <line x1="174.6" y1="436.6" x2="240.7" y2="398.6" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+    <g opacity=".5">
+      <line x1="363.4" y1="328.1" x2="182.3" y2="281" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="152.6" y1="273.3" x2="182.3" y2="281" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="363.4" y1="328.1" x2="545" y2="375.3" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="485.6" y1="257.9" x2="552.3" y2="219.6" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="363.4" y1="328.1" x2="240.7" y2="398.6" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+      <line x1="363.4" y1="328.1" x2="485.6" y2="257.9" fill="none" stroke="#c9d1d9" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
