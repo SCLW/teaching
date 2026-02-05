@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-e5630470-5758-4933-a519-2f67c93aa3fd" xmlns="http://www.w3.org/2000/svg" width="820.8" height="698.4" viewBox="0 0 820.8 698.4">
+  <line x1="289.18" y1="691.53" x2="289.18" y2="182.41" fill="none" stroke="#307eef" stroke-miterlimit="10" stroke-width="5.67"/>
+  <line x1="594.65" y1="182.41" x2="594.65" y2="641.3" fill="none" stroke="#d85648" stroke-miterlimit="10" stroke-width="5.67"/>
+  <polygon points="578.18 630.07 594.64 691.53 611.12 630.07 578.18 630.07" fill="#d85648"/>
+  <line x1="14.4" y1="590.4" x2="237.6" y2="237.6" fill="none" stroke="#307eef" stroke-miterlimit="10" stroke-width="5.67"/>
+  <polyline points="237.6 237.6 489.6 79.2 266.4 432" fill="none" stroke="#d85648" stroke-miterlimit="10" stroke-width="5.67"/>
+  <path d="m147.46,620.01c58.14-91.89,118.94-188.01,118.94-188.01" fill="none" stroke="#d85648" stroke-miterlimit="10" stroke-width="5.67"/>
+  <polygon points="167.41 619.27 120.65 662.41 139.58 601.66 167.41 619.27" fill="#d85648"/>
+  <line x1="289.18" y1="182.41" x2="594.65" y2="182.41" fill="none" stroke="#d85648" stroke-miterlimit="10" stroke-width="5.67"/>
+  <polyline points="80.44 375.87 441.91 14.4 803.38 375.87" fill="none" stroke="#7f7f7f" stroke-miterlimit="10" stroke-width="22.68"/>
+</svg>
