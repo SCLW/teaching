@@ -1,6 +1,6 @@
 {
-  "name": "Teaching Materials - Lorenz Schwarz",
-  "short_name": "LS Teaching",
+  "name": "MyWebSite",
+  "short_name": "MySite",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
@@ -15,7 +15,7 @@
       "purpose": "maskable"
     }
   ],
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
+  "theme_color": "#7F7F7F",
+  "background_color": "#c9d1d9",
   "display": "standalone"
 }
