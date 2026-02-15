@@ -1,154 +1,331 @@
 <!DOCTYPE html>
+
 <html lang="en">
+
 <head>
-    <title>Fundamentals of Sound</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;700&display=swap" rel="stylesheet">
-    <style>
+
+<title>Fundamentals of Sound</title>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;700&display=swap" rel="stylesheet">
+
+<style>
+
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+
+margin: 0;
+
+padding: 0;
+
+box-sizing: border-box;
+
 }
+
+
+
 
 html {
-    background-color: #c9d1d9;
+
+background-color: #c9d1d9;
+
 }
+
+
+
 
 body {
-    font-family: 'Schibsted Grotesk', sans-serif;
-    background: #c9d1d9;
-    color: #0d1117;
-    line-height: 1.6;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+
+font-family: 'Schibsted Grotesk', sans-serif;
+
+background: #c9d1d9;
+
+color: #0d1117;
+
+line-height: 1.6;
+
+min-height: 100vh;
+
+display: flex;
+
+flex-direction: column;
+
+font-size: 16px;
+
 }
+
+
+
 
 .container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 60px 40px;
-    flex: 1;
+
+max-width: 800px;
+
+margin: 0 auto;
+
+padding: 60px 40px;
+
+flex: 1;
+
 }
+
+
+
 
 header {
-    margin-bottom: 40px;
+
+margin-bottom: 40px;
+
 }
+
+
+
 
 h1 {
-    font-size: 2em;
-    margin-bottom: 15px;
-    font-weight: 700;
-    color: #d85648;
-    border-bottom: 3px solid #d85648;
-    padding-bottom: 15px;
+
+font-size: 37px;
+
+margin-bottom: 15px;
+
+font-weight: 700;
+
+color: #d85648;
+
+border-bottom: 3px solid #d85648;
+
+padding-bottom: 15px;
+
 }
+
+
+
 
 .intro {
-    font-size: 1em;
-    color: #0d1117;
-    margin-bottom: 40px;
-    line-height: 1.7;
+
+font-size: 30px;
+
+color: #0d1117;
+
+margin-bottom: 40px;
+
+line-height: 1.7;
+
 }
+
+
+
 
 .intro a {
-    color: #307EEF;
-    text-decoration: none;
+
+color: #307EEF;
+
+text-decoration: none;
+
 }
+
+
+
 
 .intro a:hover {
-    text-decoration: underline;
+
+text-decoration: underline;
+
 }
+
+
+
 
 .lecture-list {
-    list-style: decimal;
-    padding-left: 1.5em;
-    margin: 0;
+
+list-style: decimal;
+
+padding-left: 1.5em;
+
+margin: 0;
+
 }
+
+
+
 
 .lecture-list li {
-    padding: 12px 0;
-    font-size: 1em;
+
+padding: 5px 0;
+
+font-size: 30px;
+
 }
+
+
+
 
 .lecture-list a {
-    color: #307EEF;
-    text-decoration: none;
-    font-weight: 700;
+
+color: #307EEF;
+
+text-decoration: none;
+
+font-weight: 700;
+
 }
+
+
+
 
 .lecture-list a:hover {
-    text-decoration: underline;
+
+text-decoration: underline;
+
 }
+
+
+
 
 .lecture-desc {
-    color: #0d1117;
-    font-weight: 400;
+
+color: #0d1117;
+
+font-weight: 400;
+
+font-size: 30px;
+
 }
+
+
+
 
 .appendix-list {
-    list-style: upper-alpha;
-    padding-left: 1.5em;
-    margin-top: 30px;
+
+list-style: upper-alpha;
+
+padding-left: 1.5em;
+
+margin-top: 30px;
+
 }
+
+
+
 
 .appendix-list li {
-    padding: 12px 0;
-    font-size: 1em;
+
+padding: 5px 0;
+
+font-size: 30px;
+
 }
+
+
+
 
 .appendix-list a {
-    color: #307EEF;
-    text-decoration: none;
-    font-weight: 700;
+
+color: #307EEF;
+
+text-decoration: none;
+
+font-weight: 700;
+
 }
+
+
+
 
 .appendix-list a:hover {
-    text-decoration: underline;
+
+text-decoration: underline;
+
 }
+
+
+
 
 @media (max-width: 768px) {
-    .container {
-        padding: 40px 20px;
+
+.container {
+
+padding: 40px 20px;
+
     }
 
-    h1 {
-        font-size: 1.6em;
+
+
+
+h1 {
+
+font-size: 29.6px;
+
     }
+
 }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <header>
-            <h1>Fundamentals of Sound</h1>
-            <p class="intro" style="margin-bottom: 0;"><a href="../">← All Courses</a></p>
-            <p class="intro"><em>An introduction to acoustics, psychoacoustics, and digital audio for artists working with sound, space, and media.</em></p>
-            <p class="intro" style="color: #666;"><em>(Optimized for desktop viewing and classroom projection. Mobile devices may experience layout issues.)</em></p>
-        </header>
 
-        <main>
-            <ol class="lecture-list">
-                <li><a href="01-vibration-and-sound/" target="_blank" rel="noopener">Vibration and Sound</a> <span class="lecture-desc">· Mechanical oscillation, wave propagation, and sound fields</span></li>
-                <li><a href="02-wave-properties/" target="_blank" rel="noopener">Wave Properties</a> <span class="lecture-desc">· Frequency, wavelength, amplitude, phase</span></li>
-                <li><a href="03-waveforms/" target="_blank" rel="noopener">Waveforms</a> <span class="lecture-desc">· Periodic and stochastic audio signals</span></li>
-                <li><a href="04-spectral-analysis/" target="_blank" rel="noopener">Spectral Analysis</a> <span class="lecture-desc">· Fourier transform and the frequency domain</span></li>
-                <li><a href="05-filters/" target="_blank" rel="noopener">Filters</a> <span class="lecture-desc">· Shaping the spectrum of audio signals</span></li>
-                <li><a href="06-anatomy-of-hearing/" target="_blank" rel="noopener">Anatomy of Hearing</a> <span class="lecture-desc">· Structure and function of the auditory system</span></li>
-                <li><a href="07-psychoacoustics/" target="_blank" rel="noopener">Psychoacoustics</a> <span class="lecture-desc">· Perception of loudness, pitch, and timbre</span></li>
-                <li><a href="08-sound-localization/" target="_blank" rel="noopener">Sound Localization</a> <span class="lecture-desc">· Binaural hearing, HRTF, and spatial perception</span></li>
-                <li><a href="09-room-acoustics/" target="_blank" rel="noopener">Room Acoustics</a> <span class="lecture-desc">· Reverberation, reflections, and room modes</span></li>
-                <li><a href="10-digital-audio/" target="_blank" rel="noopener">Digital Audio</a> <span class="lecture-desc">· Sampling, quantization, and digital representation of sound</span></li>
-            </ol>
-            <ol class="appendix-list">
-                <li><a href="appendix/" target="_blank" rel="noopener">Appendix</a></li>
-                <li><a href="works_cited/" target="_blank" rel="noopener">Works Cited</a></li>
-            </ol>
-        </main>
-    </div>
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<header>
+
+<h1>Fundamentals of Sound</h1>
+
+<p class="intro" style="margin-bottom: 30px;"><a href="../">← All Courses</a></p>
+
+<p class="intro" style="margin-bottom: 5px;"><em>An introduction to acoustics, psychoacoustics, and digital audio for artists working with sound, space, and media.</em></p>
+
+<p class="intro" style="color: #666;"><em>(Optimized for desktop viewing and classroom projection. Mobile devices may experience layout issues.)</em></p>
+
+</header>
+
+
+
+
+<main>
+
+<ol class="lecture-list">
+
+<li><a href="01-vibration-and-sound/" target="_blank" rel="noopener">Vibration and Sound</a><br><span class="lecture-desc">Mechanical oscillation, wave propagation, and sound fields</span></li>
+
+<li><a href="02-wave-properties/" target="_blank" rel="noopener">Wave Properties</a><br><span class="lecture-desc">Frequency, wavelength, amplitude, phase</span></li>
+
+<li><a href="03-waveforms/" target="_blank" rel="noopener">Waveforms</a><br><span class="lecture-desc">Periodic and stochastic audio signals</span></li>
+
+<li><a href="04-spectral-analysis/" target="_blank" rel="noopener">Spectral Analysis</a><br><span class="lecture-desc">Fourier transform and the frequency domain</span></li>
+
+<li><a href="05-filters/" target="_blank" rel="noopener">Filters</a><br><span class="lecture-desc">Shaping the spectrum of audio signals</span></li>
+
+<li><a href="06-anatomy-of-hearing/" target="_blank" rel="noopener">Anatomy of Hearing</a><br><span class="lecture-desc">Structure and function of the auditory system</span></li>
+
+<li><a href="07-psychoacoustics/" target="_blank" rel="noopener">Psychoacoustics</a><br><span class="lecture-desc">Perception of loudness, pitch, and timbre</span></li>
+
+<li><a href="08-sound-localization/" target="_blank" rel="noopener">Sound Localization</a><br><span class="lecture-desc">Binaural hearing, HRTF, and spatial perception</span></li>
+
+<li><a href="09-room-acoustics/" target="_blank" rel="noopener">Room Acoustics</a><br><span class="lecture-desc">Reverberation, reflections, and room modes</span></li>
+
+<li><a href="10-digital-audio/" target="_blank" rel="noopener">Digital Audio</a><br><span class="lecture-desc">Sampling, quantization, and digital representation of sound</span></li>
+
+</ol>
+
+<ol class="appendix-list">
+
+<li><a href="appendix/" target="_blank" rel="noopener">Appendix</a></li>
+
+<li><a href="works_cited/" target="_blank" rel="noopener">Works Cited</a></li>
+
+</ol>
+
+</main>
+
+</div>
+
 </body>
+
 </html>
