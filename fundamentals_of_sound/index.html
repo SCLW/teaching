@@ -17,254 +17,109 @@
 <link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;700&display=swap" rel="stylesheet">
 
 <style>
-
 * {
-
-margin: 0;
-
-padding: 0;
-
-box-sizing: border-box;
-
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-
-
-
-
 html {
-
-background-color: #c9d1d9;
-
+    background-color: #0D1117;
 }
-
-
-
-
 body {
-
-font-family: 'Schibsted Grotesk', sans-serif;
-
-background: #c9d1d9;
-
-color: #0d1117;
-
-line-height: 1.6;
-
-min-height: 100vh;
-
-display: flex;
-
-flex-direction: column;
-
-font-size: 16px;
-
+    font-family: 'Schibsted Grotesk', sans-serif;
+    background: #0D1117;
+    color: #C9D1D9;
+    line-height: 1.6;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
 }
-
-
-
-
 .container {
-
-max-width: 800px;
-
-margin: 0 auto;
-
-padding: 60px 40px;
-
-flex: 1;
-
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 60px 40px;
+    flex: 1;
 }
-
-
-
-
 header {
-
-margin-bottom: 40px;
-
+    margin-bottom: 48px;
 }
-
-
-
-
 h1 {
-
-font-size: 37px;
-
-margin-bottom: 15px;
-
-font-weight: 700;
-
-color: #d85648;
-
-border-bottom: 3px solid #d85648;
-
-padding-bottom: 15px;
-
+    margin: 0;
+    border-bottom: 1px solid #C9D1D9;
+    padding: 0 0 16px 0;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1;
+    text-transform: uppercase;
+    color: #C9D1D9;
+    letter-spacing: 0.02em;
 }
-
-
-
-
 .intro {
-
-font-size: 30px;
-
-color: #0d1117;
-
-margin-bottom: 40px;
-
-line-height: 1.7;
-
+    font-size: 1rem;
+    color: #7F7F7F;
+    margin-bottom: 0;
+    margin-top: 16px;
+    line-height: 1.6;
 }
-
-
-
-
 .intro a {
-
-color: #307EEF;
-
-text-decoration: none;
-
+    color: #307EEF;
+    text-decoration: none;
 }
-
-
-
-
 .intro a:hover {
-
-text-decoration: underline;
-
+    text-decoration: underline;
 }
-
-
-
-
 .lecture-list {
-
-list-style: decimal;
-
-padding-left: 1.5em;
-
-margin: 0;
-
+    list-style: decimal;
+    padding-left: 1.5em;
+    margin: 0;
 }
-
-
-
-
 .lecture-list li {
-
-padding: 5px 0;
-
-font-size: 30px;
-
+    padding: 12px 0;
+    font-size: 1rem;
+    border-bottom: 1px solid rgba(201, 209, 217, 0.15);
 }
-
-
-
-
+.lecture-list li:last-child {
+    border-bottom: none;
+}
 .lecture-list a {
-
-color: #307EEF;
-
-text-decoration: none;
-
-font-weight: 700;
-
+    color: #307EEF;
+    text-decoration: none;
+    font-weight: 600;
 }
-
-
-
-
 .lecture-list a:hover {
-
-text-decoration: underline;
-
+    text-decoration: underline;
 }
-
-
-
-
 .lecture-desc {
-
-color: #0d1117;
-
-font-weight: 400;
-
-font-size: 30px;
-
+    color: #7F7F7F;
+    font-weight: 400;
+    font-size: 0.9rem;
 }
-
-
-
-
 .appendix-list {
-
-list-style: upper-alpha;
-
-padding-left: 1.5em;
-
-margin-top: 30px;
-
+    list-style: upper-alpha;
+    padding-left: 1.5em;
+    margin-top: 24px;
 }
-
-
-
-
 .appendix-list li {
-
-padding: 5px 0;
-
-font-size: 30px;
-
+    padding: 8px 0;
+    font-size: 1rem;
 }
-
-
-
-
 .appendix-list a {
-
-color: #307EEF;
-
-text-decoration: none;
-
-font-weight: 700;
-
+    color: #307EEF;
+    text-decoration: none;
+    font-weight: 600;
 }
-
-
-
-
 .appendix-list a:hover {
-
-text-decoration: underline;
-
+    text-decoration: underline;
 }
-
-
-
-
 @media (max-width: 768px) {
-
-.container {
-
-padding: 40px 20px;
-
+    .container {
+        padding: 40px 20px;
     }
-
-
-
-
-h1 {
-
-font-size: 29.6px;
-
+    h1 {
+        font-size: 1.5rem;
     }
-
 }
-
 </style>
 
 </head>
@@ -277,11 +132,11 @@ font-size: 29.6px;
 
 <h1>Fundamentals of Sound</h1>
 
-<p class="intro" style="margin-bottom: 30px;"><a href="../">← All Courses</a></p>
+<p class="intro" style="margin-bottom: 24px;"><a href="../">← All Courses</a></p>
 
-<p class="intro" style="margin-bottom: 5px;"><em>An introduction to acoustics, psychoacoustics, and digital audio for artists working with sound, space, and media.</em></p>
+<p class="intro" style="margin-bottom: 4px;"><em>An introduction to acoustics, psychoacoustics, and digital audio for artists working with sound, space, and media.</em></p>
 
-<p class="intro" style="color: #666;"><em>(Optimized for desktop viewing and classroom projection. Mobile devices may experience layout issues.)</em></p>
+<p class="intro"><em>(Optimized for desktop viewing and classroom projection. Mobile devices may experience layout issues.)</em></p>
 
 </header>
 
