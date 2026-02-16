@@ -31,277 +31,129 @@
 <link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;700&display=swap" rel="stylesheet">
 
 <style>
-
 * {
-
-margin: 0;
-
-padding: 0;
-
-box-sizing: border-box;
-
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-
 html {
-
-background-color: #c9d1d9;
-
+    background-color: #0D1117;
 }
-
 body {
-
-font-family: 'Schibsted Grotesk', sans-serif;
-
-background: #c9d1d9;
-
-color: #0d1117;
-
-line-height: 1.6;
-
-min-height: 100vh;
-
-display: flex;
-
-flex-direction: column;
-
-font-size: 16px;
-
+    font-family: 'Schibsted Grotesk', sans-serif;
+    background: #0D1117;
+    color: #C9D1D9;
+    line-height: 1.6;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
 }
-
 .container {
-
-max-width: 800px;
-
-margin: 0 auto;
-
-padding: 60px 40px;
-
-flex: 1;
-
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 60px 40px;
+    flex: 1;
 }
-
 header {
-
-margin-bottom: 40px;
-
+    margin-bottom: 48px;
 }
-
 h1 {
-
-font-size: 37px;
-
-margin-bottom: 15px;
-
-font-weight: 700;
-
-color: #d85648;
-
-border-bottom: 3px solid #d85648;
-
-padding-bottom: 15px;
-
+    margin: 0;
+    border-bottom: 1px solid #C9D1D9;
+    padding: 0 0 16px 0;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1;
+    text-transform: uppercase;
+    color: #C9D1D9;
+    letter-spacing: 0.02em;
 }
-
 .intro {
-
-font-size: 20px;
-
-color: #0d1117;
-
-margin-bottom: 40px;
-
-line-height: 1.7;
-
+    font-size: 1rem;
+    color: #7F7F7F;
+    margin-bottom: 0;
+    margin-top: 16px;
+    line-height: 1.6;
 }
-
 .intro a {
-
-color: #307EEF;
-
-text-decoration: none;
-
+    color: #307EEF;
+    text-decoration: none;
 }
-
 .intro a:hover {
-
-text-decoration: underline;
-
+    text-decoration: underline;
 }
-
 .lecture {
-
-padding: 30px 0;
-
-border-top: 2px solid #d85648;
-
+    padding: 24px 0;
+    border-bottom: 1px solid rgba(201, 209, 217, 0.15);
 }
-
-.lecture:first-of-type {
-
-border-top: none;
-
-padding-top: 0;
-
+.lecture:last-of-type {
+    border-bottom: none;
 }
-
 .lecture-title {
-
-font-size: 24px;
-
-font-weight: 700;
-
-color: #0D1117;
-
-margin-bottom: 5px;
-
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #C9D1D9;
+    margin-bottom: 4px;
 }
-
 .lecture-subtitle {
-
-font-size: 20px;
-
-color: #0d1117;
-
-margin-bottom: 8px;
-
-font-style: italic;
-
+    font-size: 0.95rem;
+    color: #7F7F7F;
+    margin-bottom: 8px;
+    font-style: italic;
 }
-
 .lecture-topics {
-
-color: #0d1117;
-
-font-size: 20px;
-
-margin-bottom: 10px;
-
+    color: #7F7F7F;
+    font-size: 0.9rem;
+    margin-bottom: 10px;
+    line-height: 1.5;
 }
-
 .lecture-topics strong {
-
-color: #0D1117;
-
+    color: #C9D1D9;
 }
-
 .lecture-links {
-
-font-size: 20px;
-
+    font-size: 0.9rem;
 }
-
 .lecture-links a {
-
-color: #307EEF;
-
-text-decoration: none;
-
+    color: #307EEF;
+    text-decoration: none;
 }
-
 .lecture-links a:hover {
-
-text-decoration: underline;
-
+    text-decoration: underline;
 }
-
 .lecture-links .disabled {
-
-color: #999;
-
-cursor: not-allowed;
-
+    color: #7F7F7F;
+    cursor: not-allowed;
 }
-
 .lecture-links .disabled:hover {
-
-text-decoration: none;
-
+    text-decoration: none;
 }
-
 footer {
-
-border-top: 2px solid #d85648;
-
-padding: 30px 40px;
-
-text-align: center;
-
-color: #0d1117;
-
-font-size: 14px;
-
-margin-top: auto;
-
+    border-top: 1px solid rgba(201, 209, 217, 0.15);
+    padding: 24px 40px;
+    text-align: center;
+    color: #7F7F7F;
+    font-size: 0.85rem;
+    margin-top: auto;
 }
-
 footer a {
-
-color: #307EEF;
-
-text-decoration: none;
-
+    color: #307EEF;
+    text-decoration: none;
 }
-
 footer a:hover {
-
-text-decoration: underline;
-
+    text-decoration: underline;
 }
-
 @media (max-width: 768px) {
-
-.container {
-
-padding: 40px 20px;
-
+    .container {
+        padding: 40px 20px;
+    }
+    h1 {
+        font-size: 1.5rem;
+    }
+    footer {
+        padding: 24px 20px;
+    }
 }
-
-h1 {
-
-font-size: 29.6px;
-
-}
-
-.intro {
-
-font-size: 16px;
-
-}
-
-.lecture-title {
-
-font-size: 19.2px;
-
-}
-
-.lecture-subtitle {
-
-font-size: 16px;
-
-}
-
-.lecture-topics {
-
-font-size: 16px;
-
-}
-
-.lecture-links {
-
-font-size: 16px;
-
-}
-
-footer {
-
-padding: 30px 20px;
-
-font-size: 11.2px;
-
-}
-
-}
-
 </style>
 
 </head>
@@ -312,15 +164,15 @@ font-size: 11.2px;
 
 <header>
 
-<h1>Teaching Materials - Lorenz Schwarz</h1>
+<h1>TEACHING MATERIALS</h1>
 
 <p class="intro">
 
-Courses in <a href="https://medienkunst-sound.de" target="_blank" rel="noopener">sound and media art</a> taught at Karlsruhe University of Arts and Design (HfG Karlsruhe).
+Courses in <a href="https://medienkunst-sound.de" target="_blank" rel="noopener">sound and media art</a> taught by Lorenz Schwarz at Karlsruhe University of Arts and Design (HfG Karlsruhe).
 
 </p>
 
-<p class="intro" style="margin-top: 1.5em; color: #0d1117;">
+<p class="intro" style="margin-top: 8px;">
 
 <em>(Slide presentations are optimized for desktop browsers and projection. Mobile viewing may experience layout issues.)</em>
 
