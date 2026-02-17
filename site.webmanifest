@@ -1,6 +1,6 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "MK-Sound",
+  "short_name": "MK",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
@@ -15,7 +15,7 @@
       "purpose": "maskable"
     }
   ],
-  "theme_color": "#c9d1d9",
-  "background_color": "#c9d1d9",
+  "theme_color": " #0D111",
+  "background_color": "#C9D1D9",
   "display": "standalone"
 }

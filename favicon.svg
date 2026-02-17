@@ -1,24 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512"><svg id="Ebene_1_Kopie" data-name="Ebene 1 Kopie" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <defs>
-    <style>
-      .cls-1 {
-        stroke-linecap: round;
-      }
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><style>
+    #light-icon {
+      display: inline;
+    }
+    #dark-icon {
+      display: none;
+    }
 
-      .cls-1, .cls-2 {
-        fill: none;
-        stroke: #d85648;
-        stroke-width: 22.68px;
+    @media (prefers-color-scheme: dark) {
+      #light-icon {
+        display: none;
       }
-    </style>
-  </defs>
-  <circle class="cls-1" cx="256" cy="256" r="223"></circle>
-  <g>
-    <path class="cls-2" d="m171.25,193.51c-30.74,0-57.88,31.24-84.75,62.49"></path>
-    <path class="cls-2" d="m256,256c-26.87-31.24-54.01-62.49-84.75-62.49"></path>
-    <path class="cls-2" d="m340.75,318.49c30.74,0,57.88-31.24,84.75-62.49"></path>
-    <path class="cls-2" d="m256,256c26.87,31.24,54.01,62.49,84.75,62.49"></path>
-  </g>
-</svg></svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
-@media (prefers-color-scheme: dark) { :root { filter: none; } }
-</style></svg>
+      #dark-icon {
+        display: inline;
+      }
+    }
+  </style><g id="light-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g><g transform="matrix(1.953125,0,0,1.953125,0,0)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512px" height="512px"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#C9D1D9;}
+	.st1{fill:none;stroke:#D85648;stroke-width:28.3465;stroke-linecap:round;}
+	.st2{fill:none;stroke:#D85648;stroke-width:28.3465;}
+</style>
+<g id="Ebene_2">
+	<circle class="st0" cx="256" cy="256" r="223"></circle>
+</g>
+<g id="Ebene_1_Kopie">
+	<circle class="st1" cx="256" cy="256" r="223"></circle>
+	<g>
+		<path class="st2" d="M171.2,193.5c-30.7,0-57.9,31.2-84.8,62.5"></path>
+		<path class="st2" d="M256,256c-26.9-31.2-54-62.5-84.8-62.5"></path>
+		<path class="st2" d="M340.8,318.5c30.7,0,57.9-31.2,84.8-62.5"></path>
+		<path class="st2" d="M256,256c26.9,31.2,54,62.5,84.8,62.5"></path>
+	</g>
+</g>
+</svg></svg></g></g></svg></g><g id="dark-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g><g transform="matrix(1.953125,0,0,1.953125,0,0)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512px" height="512px"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0D1117;}
+	.st1{fill:none;stroke:#D85648;stroke-width:28.3465;stroke-linecap:round;}
+	.st2{fill:none;stroke:#D85648;stroke-width:28.3465;}
+</style>
+<g id="Ebene_2">
+	<circle class="st0" cx="256" cy="256" r="223"></circle>
+</g>
+<g id="Ebene_1_Kopie">
+	<circle class="st1" cx="256" cy="256" r="223"></circle>
+	<g>
+		<path class="st2" d="M171.2,193.5c-30.7,0-57.9,31.2-84.8,62.5"></path>
+		<path class="st2" d="M256,256c-26.9-31.2-54-62.5-84.8-62.5"></path>
+		<path class="st2" d="M340.8,318.5c30.7,0,57.9-31.2,84.8-62.5"></path>
+		<path class="st2" d="M256,256c26.9,31.2,54,62.5,84.8,62.5"></path>
+	</g>
+</g>
+</svg></svg></g></g></svg></g></svg>
