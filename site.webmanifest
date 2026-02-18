@@ -1,6 +1,6 @@
 {
   "name": "MK-Sound",
-  "short_name": "MK",
+  "short_name": "MKS",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
@@ -15,7 +15,7 @@
       "purpose": "maskable"
     }
   ],
-  "theme_color": " #0D111",
-  "background_color": "#C9D1D9",
+  "theme_color": "#7f7f7f",
+  "background_color": "#7f7f7f",
   "display": "standalone"
 }

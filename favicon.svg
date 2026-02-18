@@ -1,53 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><style>
-    #light-icon {
-      display: inline;
-    }
-    #dark-icon {
-      display: none;
-    }
-
-    @media (prefers-color-scheme: dark) {
-      #light-icon {
-        display: none;
-      }
-      #dark-icon {
-        display: inline;
-      }
-    }
-  </style><g id="light-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g><g transform="matrix(1.953125,0,0,1.953125,0,0)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512px" height="512px"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#C9D1D9;}
-	.st1{fill:none;stroke:#D85648;stroke-width:28.3465;stroke-linecap:round;}
-	.st2{fill:none;stroke:#D85648;stroke-width:28.3465;}
-</style>
-<g id="Ebene_2">
-	<circle class="st0" cx="256" cy="256" r="223"></circle>
-</g>
-<g id="Ebene_1_Kopie">
-	<circle class="st1" cx="256" cy="256" r="223"></circle>
-	<g>
-		<path class="st2" d="M171.2,193.5c-30.7,0-57.9,31.2-84.8,62.5"></path>
-		<path class="st2" d="M256,256c-26.9-31.2-54-62.5-84.8-62.5"></path>
-		<path class="st2" d="M340.8,318.5c30.7,0,57.9-31.2,84.8-62.5"></path>
-		<path class="st2" d="M256,256c26.9,31.2,54,62.5,84.8,62.5"></path>
-	</g>
-</g>
-</svg></svg></g></g></svg></g><g id="dark-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g><g transform="matrix(1.953125,0,0,1.953125,0,0)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512px" height="512px"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#0D1117;}
-	.st1{fill:none;stroke:#D85648;stroke-width:28.3465;stroke-linecap:round;}
-	.st2{fill:none;stroke:#D85648;stroke-width:28.3465;}
-</style>
-<g id="Ebene_2">
-	<circle class="st0" cx="256" cy="256" r="223"></circle>
-</g>
-<g id="Ebene_1_Kopie">
-	<circle class="st1" cx="256" cy="256" r="223"></circle>
-	<g>
-		<path class="st2" d="M171.2,193.5c-30.7,0-57.9,31.2-84.8,62.5"></path>
-		<path class="st2" d="M256,256c-26.9-31.2-54-62.5-84.8-62.5"></path>
-		<path class="st2" d="M340.8,318.5c30.7,0,57.9-31.2,84.8-62.5"></path>
-		<path class="st2" d="M256,256c26.9,31.2,54,62.5,84.8,62.5"></path>
-	</g>
-</g>
-</svg></svg></g></g></svg></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300"><svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <g id="Ebene_2" data-name="Ebene 2">
+    <circle cx="150" cy="150" r="137.313" fill="#c9d1d9"></circle>
+  </g>
+  <g id="Ebene_1" data-name="Ebene 1">
+    <circle cx="150" cy="150" r="137.313" fill="none" stroke="#d85648" stroke-linecap="round" stroke-width="19.843"></circle>
+    <g>
+      <path d="m103.132,111.522c-17.001,0-32.011,19.239-46.868,38.478" fill="none" stroke="#d85648" stroke-width="22.677"></path>
+      <path d="m150,150c-14.857-19.239-29.867-38.478-46.868-38.478" fill="none" stroke="#d85648" stroke-width="22.677"></path>
+      <path d="m196.868,188.478c17.001,0,32.011-19.239,46.868-38.478" fill="none" stroke="#d85648" stroke-width="22.677"></path>
+      <path d="m150,150c14.857,19.239,29.867,38.478,46.868,38.478" fill="none" stroke="#d85648" stroke-width="22.677"></path>
+    </g>
+  </g>
+</svg></svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
