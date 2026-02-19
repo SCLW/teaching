@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300"><svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <g id="Ebene_2" data-name="Ebene 2">
+    <circle cx="150" cy="150" r="137.313" fill="#c9d1d9"></circle>
+  </g>
+  <g id="Ebene_1" data-name="Ebene 1">
+    <circle cx="150" cy="150" r="137.313" fill="none" stroke="#d85648" stroke-linecap="round" stroke-width="19.843"></circle>
+    <g>
+      <path d="m103.132,111.522c-17.001,0-32.011,19.239-46.868,38.478" fill="none" stroke="#d85648" stroke-width="22.677"></path>
+      <path d="m150,150c-14.857-19.239-29.867-38.478-46.868-38.478" fill="none" stroke="#d85648" stroke-width="22.677"></path>
+      <path d="m196.868,188.478c17.001,0,32.011-19.239,46.868-38.478" fill="none" stroke="#d85648" stroke-width="22.677"></path>
+      <path d="m150,150c14.857,19.239,29.867,38.478,46.868,38.478" fill="none" stroke="#d85648" stroke-width="22.677"></path>
+    </g>
+  </g>
+</svg></svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
