@@ -157,6 +157,33 @@ footer a:hover {
 }
 </style>
 
+
+<style>
+/* Accessible audio play buttons - styled as links */
+button[onclick*="play()"] {
+  background: none;
+  border: none;
+  color: #307EEF;  /* Theme link color */
+  font: inherit;
+  cursor: pointer;
+  padding: 0;
+  text-decoration: underline;
+  display: inline;
+}
+
+button[onclick*="play()"]:hover {
+  color: #2868C9;  /* Slightly darker on hover */
+}
+
+button[onclick*="play()"]:focus {
+  outline: 2px solid #307EEF;
+  outline-offset: 2px;
+}
+
+button[onclick*="play()"]:active {
+  color: #1F52A3;  /* Even darker when clicked */
+}
+</style>
 </head>
 
 <body>
